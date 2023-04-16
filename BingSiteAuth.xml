@@ -1,4 +1,9 @@
-<?xml version="1.0"?>
-<users>
-	<user>C22C1F068034D96688E12B315D83EED7</user>
-</users>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://phoelle1.github.io/post1/</loc>
+    <lastmod>2023-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
